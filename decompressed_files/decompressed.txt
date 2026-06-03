@@ -1,0 +1,3 @@
+Data Structures and Algorithms are important in Computer Science.
+Huffman Coding is a popular lossless compression technique.
+This project demonstrates Trees, Heaps, Hash Maps and Greedy Algorithms.

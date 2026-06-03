@@ -1,0 +1,9 @@
+Decompression Successful!
+
+Verification Successful!
+
+Compression Report
+------------------------------
+Original Size   : 1584 bits
+Compressed Size : 886 bits
+Compression Ratio : 55.93%
